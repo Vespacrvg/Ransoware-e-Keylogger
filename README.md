@@ -1,0 +1,2 @@
+# Ransoware-e-Keylogger
+APENAS TESTE EM AMBIENTE CONTROLADO
